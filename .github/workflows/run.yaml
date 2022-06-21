@@ -1,0 +1,15 @@
+name: react-build-test
+on: [push]
+jobs:
+  react-build:
+    runs-on: ubuntu-latest # 実行するインスタンス
+    steps:
+      - uses: actions/checkout@v3 # チェックアウト
+
+      - uses: actions/setup-node@v3 # 使用するnodeのバージョン指定
+        with:
+          node-versions: 16
+
+      - run: |
+          npm ci
+          npm run build
