@@ -8,7 +8,7 @@ jobs:
 
       - uses: actions/setup-node@v3 # 使用するnodeのバージョン指定
         with:
-          node-versions: 16
+          node-version: 16
 
       - run: |
           npm ci
