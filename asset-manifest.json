@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7f8449b2.js",
-    "static/js/787.8232faab.chunk.js": "/static/js/787.8232faab.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7f8449b2.js.map": "/static/js/main.7f8449b2.js.map",
-    "787.8232faab.chunk.js.map": "/static/js/787.8232faab.chunk.js.map"
+    "main.css": "/githubactiontest-2/static/css/main.073c9b0a.css",
+    "main.js": "/githubactiontest-2/static/js/main.b0196211.js",
+    "static/js/787.8232faab.chunk.js": "/githubactiontest-2/static/js/787.8232faab.chunk.js",
+    "static/media/logo.svg": "/githubactiontest-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/githubactiontest-2/index.html",
+    "main.073c9b0a.css.map": "/githubactiontest-2/static/css/main.073c9b0a.css.map",
+    "main.b0196211.js.map": "/githubactiontest-2/static/js/main.b0196211.js.map",
+    "787.8232faab.chunk.js.map": "/githubactiontest-2/static/js/787.8232faab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7f8449b2.js"
+    "static/js/main.b0196211.js"
   ]
 }
